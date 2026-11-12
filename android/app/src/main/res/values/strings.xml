@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ribbon Queue</string>
+    <string name="title_activity_main">Ribbon Queue</string>
+    <string name="package_name">org.ribbonqueue.app</string>
+    <string name="custom_url_scheme">org.ribbonqueue.app</string>
+</resources>

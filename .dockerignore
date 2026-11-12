@@ -1,0 +1,15 @@
+node_modules
+.git
+.tools
+.work
+.signing
+data
+dist
+release
+android
+ios
+.env*
+*.jks
+*.keystore
+*.p12
+*.mobileprovision

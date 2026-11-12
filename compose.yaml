@@ -1,0 +1,12 @@
+services:
+  ribbon-queue:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3210:3210"
+    environment:
+      PUBLIC_URL: ${PUBLIC_URL:-http://127.0.0.1:3210}
+    volumes:
+      - ribbon-data:/app/data
+volumes:
+  ribbon-data:
