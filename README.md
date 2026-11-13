@@ -6,6 +6,15 @@
 
 ## 直接使用
 
+下載 [最新版本與完整安裝檔](https://github.com/The-RH/ribbon-queue/releases/latest)：
+
+- [Windows 安裝版](https://github.com/The-RH/ribbon-queue/releases/download/v1.0.0/Ribbon-Queue-1.0.0-Windows-Setup.exe)
+- [Windows 免安裝版](https://github.com/The-RH/ribbon-queue/releases/download/v1.0.0/Ribbon-Queue-1.0.0-Windows-Portable.exe)
+- [Android APK](https://github.com/The-RH/ribbon-queue/releases/download/v1.0.0/Ribbon-Queue-1.0.0-android.apk)
+- [完整原始碼 ZIP（含 iOS 原生專案）](https://github.com/The-RH/ribbon-queue/releases/download/v1.0.0/Ribbon-Queue-1.0.0-source.zip)
+
+Windows 發行檔尚未使用商業程式碼簽章；Android APK 已以本專案的私有發行金鑰簽署。Android 相機與各店家網路仍需實機測試，請先用測試場次驗收。SHA-256 校驗碼列於 Release 附件。
+
 | 平台 | 使用方式 | 發佈狀態 |
 | --- | --- | --- |
 | Windows 10/11 x64 | 安裝 Setup.exe，或直接開啟 Portable.exe；不必另外安裝 Node.js | 可在 Windows 建置與驗證 |
